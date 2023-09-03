@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://github.com/pangilK/TAG1/assets/129753181/b4ad3416-3126-4760-bc57-f91e52f9c0e1" alt="TAG1 로고">
 </p>
+<br>
 
 ![game](https://github.com/pangilK/TAG1/assets/129753181/b6de49a4-5f40-44db-8361-0a4fcb87f0db)
 <br><br/>
