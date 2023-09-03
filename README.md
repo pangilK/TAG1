@@ -60,10 +60,10 @@
 # 💙 TEAM MEMBER 💙
 <div align="left">
 	
- #### 👑 [@pangliK](https://github.com/pangilK) : 게임 제작, ai 챗봇
+ #### 👑 [@pangliK](https://github.com/pangilK) : 게임 제작, aiChat
  #### 👉 [@minJunK](https://github.com/minJunK) : 자유게시판, 이미지게시판, 채팅, 회원관리
  #### 👉 [@smetmoney](https://github.com/smetmoney) : 로그인, 회원가입, 쪽지, 회원관리
- #### 👉 [@hyejongspace](https://github.com/hyejeongspace) : 공지사항, QnA, 채팅
+ #### 👉 [@hyejongspace](https://github.com/hyejeongspace) : 공지사항, QnA , 채팅
 </div>
 <br>
 
