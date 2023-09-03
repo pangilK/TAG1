@@ -1,20 +1,36 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=TAG1&desc=@pangilK&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
-<br>
-
+	
+![logo_black](https://github.com/pangilK/TAG1/assets/129753181/b4ad3416-3126-4760-bc57-f91e52f9c0e1)
 ![3g](https://github.com/pangilK/TAG1/assets/129753181/ca260d87-6c6c-4a83-ada1-4646e167fd20)
-<br><br/>
 
 #  👀 introduce
 #### 2023.08.02 ~ 2023.09.04
-웹 기반 텍스트 게임 웹 홈페이지
+간단한 웹 게임 및 게시판 , 이미지 게시판 채팅 쪽지 기능이 있는 웹
 <br>
-#### sound
+<div align="left"> 
+	
+#### 🎮 웹 게임
+- 스트레스를 풀고 무한한 재미를 누리세요! 늦은 밤까지 즐거움이 계속됩니다.
+
+#### 📢 게시판
+- 여기서는 여러분의 목소리가 들려집니다. 새로운 아이디어를 얻고 친구를 사귈 수 있는 공간입니다.
+
+#### 📷 이미지 게시판
+- 아름다운 순간들을 공유하세요! 인상적인 이미지와 감동적인 순간을 함께 나누어보세요.
+
+#### 💬 채팅 및 쪽지 기능
+- 실시간으로 친구들과 대화하고, 비공개로 메시지를 주고받을 수 있습니다. 새로운 친구를 만나고 가족과 가까워질 수 있는 기회입니다.
+
+</div>
+
+	
+#### Music
 👉 [<img src="https://img.shields.io/badge/@crnnwrth-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/crnnwrth/) 👈
 #### Used Program
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+
 <br><br>
 
 # 📚 Used Skill & Tools
@@ -41,6 +57,14 @@
 <img src="https://img.shields.io/badge/ChatGPTAPI-F8DC75?style=for-the-badge&logo=&logoColor=white" />
 <br>
 
-# 💙 procedure
-#### 맵 제작 - tiled
-#### 캐릭터 제작 - pixilart.com
+# 💙 TEAM MEMBER 💙
+<div align="left">
+	
+ #### 👑 [@pangliK](https://github.com/pangilK) : 게임 제작, ai 챗봇
+ #### 👉 [@minJunK](https://github.com/minJunK) : 자유게시판, 이미지게시판, 채팅, 회원관리
+ #### 👉 [@smetmoney](https://github.com/smetmoney) : 로그인, 회원가입, 쪽지, 회원관리
+ #### 👉 [@hyejongspace](https://github.com/hyejeongspace) : 공지사항, QnA, 채팅
+</div>
+
+
+
