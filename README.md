@@ -1,9 +1,6 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=TAG1&desc=@pangilK&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
-<p align="center">
-  <img src="https://github.com/pangilK/TAG1/assets/129753181/b4ad3416-3126-4760-bc57-f91e52f9c0e1" alt="TAG1 로고">
-</p>
 <br>
 
 ![3g](https://github.com/pangilK/TAG1/assets/129753181/ca260d87-6c6c-4a83-ada1-4646e167fd20)
