@@ -44,6 +44,6 @@
 <img src="https://img.shields.io/badge/ChatGPTAPI-F8DC75?style=for-the-badge&logo=&logoColor=white" />
 <br>
 
-# procedure
+# 💙 procedure
 #### 맵 제작 - tiled
 #### 캐릭터 제작 - pixilart.com
