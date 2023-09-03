@@ -65,7 +65,5 @@
  #### 👉 [@smetmoney](https://github.com/smetmoney) : 로그인, 회원가입, 쪽지, 회원관리
  #### 👉 [@hyejongspace](https://github.com/hyejeongspace) : 공지사항, QnA , 채팅
 </div>
+
 <br>
-
-### 읽어주셔서 감사합니다. 항상 건강하고 행복하세요
-
