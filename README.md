@@ -3,6 +3,8 @@
 ![logo_black](https://github.com/pangilK/TAG1/assets/129753181/b4ad3416-3126-4760-bc57-f91e52f9c0e1)
 ![3g](https://github.com/pangilK/TAG1/assets/129753181/ca260d87-6c6c-4a83-ada1-4646e167fd20)
 
+# LINK
+[<img src="https://img.shields.io/badge/바로가기-E34F26?style=for-the-badge&logo=&logoColor=white">](http://13.124.134.101:8080/project/)
 #  👀 introduce
 #### 2023.08.02 ~ 2023.09.04
 간단한 웹 게임 및 게시판 , 이미지 게시판 채팅 쪽지 기능이 있는 웹
